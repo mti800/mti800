@@ -2,7 +2,7 @@
 - 🌱 I’m currently studing Systems Engineerin
 - 💞️ I’m looking to collaborate on projects where I can learn new things.
 
-- ⚡ Fun fact: I play chess🎱
+- ⚡ Fun fact: I play table tennis🏓
 
 <!---
 mti800/mti800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
