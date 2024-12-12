@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mti800
-- 🌱 I’m currently studing Systems Engineerin
+- 🌱 I’m currently studing Systems Engineering
 - 💞️ I’m looking to collaborate on projects where I can learn new things.
 
 - ⚡ Fun fact: I play table tennis🏓
